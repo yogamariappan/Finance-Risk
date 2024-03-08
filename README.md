@@ -1,3 +1,8 @@
+
+ <a href="https://docs.google.com/presentation/d/1EC65SH-e-k724q2jAyG9TwpjsNdkgzdI/edit?usp=drive_link&ouid=112494413225607361252&rtpof=true&sd=true)">click here cardehko PPT </a>
+
+
+
 # Financial-Risk-Detection
 
 This project combines EDA and machine learning to predict loan defaults for a consumer finance company. Analyzing historical loan data reveals patterns indicating potential defaulters. By minimizing financial losses and avoiding unfair rejections, this analysis aids in efficient risk management.
