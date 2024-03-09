@@ -1,5 +1,5 @@
 
- <a href="https://docs.google.com/presentation/d/1EC65SH-e-k724q2jAyG9TwpjsNdkgzdI/edit?usp=drive_link&ouid=112494413225607361252&rtpof=true&sd=true)">click here cardehko PPT </a>
+ <a href="[https://docs.google.com/presentation/d/1EC65SH-e-k724q2jAyG9TwpjsNdkgzdI/edit?usp=drive_link&ouid=112494413225607361252&rtpof=true&sd=true)](https://docs.google.com/presentation/d/1SDyIJCpPFdGUkH9OJUa5r6ZiZ1CtFQpo/edit?usp=sharing&ouid=112494413225607361252&rtpof=true&sd=true)">click here Finance_Risk PPT </a>
 
 
 
